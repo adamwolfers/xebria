@@ -1,3 +1,7 @@
-#surround {
+.surround {
   border: 1px solid green;
+}
+
+#subscriptions {
+  float: left;
 }
