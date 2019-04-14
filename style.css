@@ -5,3 +5,7 @@
 #subscriptions {
   float: left;
 }
+
+#recent {
+  float: right;
+}
