@@ -1,6 +1,4 @@
 body {
-  width: 1200px;
-  align: center;
 }
 
 .surround {
@@ -10,15 +8,15 @@ body {
 
 #subscriptions {
   float: left;
-  width: 290px;
+  width: 20%;
 }
 
 #myfeed {
   display: inline-block;
-  width: 590px;
+  width: 60%;
 }
 
 #recent {
   float: right;
-  width: 290px;
+  width: 20%;
 }
